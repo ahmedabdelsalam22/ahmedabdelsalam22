@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Abd Elsalam</h1>
-<h3 align="center">
+<h3 align="start">
   A passionate mobile developer from Egypt
   
 -  +1 years of experience developing Flutter apps for Android
