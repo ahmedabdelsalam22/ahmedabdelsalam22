@@ -1,5 +1,19 @@
 <h1 align="center">Hi 👋, I'm Ahmed Abd Elsalam</h1>
-<h3 align="center">A passionate mobile developer from Egypt</h3>
+<h3 align="center">
+  A passionate mobile developer from Egypt
+  +1 years of experience developing Flutter apps for Android
+• Have a solid knowledge of Algorithms and Data Structures, OOP, Design Patterns.
+• Familiar with Unit Testing (TDD) and ensure code quality,and build Clean Architecture
+apps.
+• Familiarity with RESTful APIs to connect applications to back-end services.
+• Have experience in Payment gateway and stripe payment method.
+• Experience with Bloc and Provider StateManagment
+• Revise, update, refactor and debug code, legacy code.
+• Build Apps with offline storage (Sqflite)
+• Experience with code architectures (MVC, MVVM)
+• Familiarity with firebase cloud message apis and push Notifications , Firebase Auth –
+Firestore , storage
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prahmed20&label=Profile%20views&color=0e75b6&style=flat" alt="prahmed20" /> </p>
 
