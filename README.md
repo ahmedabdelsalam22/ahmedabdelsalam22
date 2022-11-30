@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Abd Elsalam</h1>
-<h3 align="start">
+<h2 align="start">
   A passionate mobile developer from Egypt
   
 • +1 years of experience developing Flutter apps for Android
@@ -23,7 +23,7 @@ apps.
   
 • Familiarity with firebase cloud message apis and push Notifications , Firebase Auth –
 Firestore , storage
-</h3>
+</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prahmed20&label=Profile%20views&color=0e75b6&style=flat" alt="prahmed20" /> </p>
 
