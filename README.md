@@ -2,7 +2,7 @@
 <h3 align="start">
   A passionate mobile developer from Egypt
   
--  +1 years of experience developing Flutter apps for Android
+• +1 years of experience developing Flutter apps for Android
   
 • Have a solid knowledge of Algorithms and Data Structures, OOP, Design Patterns.
   
