@@ -20,7 +20,7 @@ code magic tool )
   
 • Revise, update, refactor and debug code, legacy code.
   
-• Build Apps with offline storage (Sqflite)
+• Build Apps with offline storage (Hive,Sqflite)
   
 • Experience with code architectures (MVC, MVVM)
   
