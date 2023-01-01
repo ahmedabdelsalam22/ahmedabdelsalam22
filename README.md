@@ -9,9 +9,6 @@
 • Familiar with Unit Testing (TDD) and ensure code quality,and build Clean Architecture
 apps.
   
-• Familiarity with CICD software development methodologies (git ,github Action and 
-code magic tool )  
-  
 • Familiarity with RESTful APIs to connect applications to back-end services.
   
 • Have experience in Payment gateway and stripe payment method
