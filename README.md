@@ -4,6 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Ahmed Abd Elsalam</h1>
 <h0 align="start">
+
   A passionate mobile developer , dotNetCore Development
   
   
@@ -19,6 +20,8 @@ apps.
 • Have experience in Payment gateway and stripe payment method
   
 • Experience with Bloc and Provider StateManagment
+
+- Experience with SQL Database 
   
 • Revise, update, refactor and debug code, legacy code.
   
