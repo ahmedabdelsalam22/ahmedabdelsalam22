@@ -21,7 +21,7 @@ apps.
   
 • Experience with Bloc and Provider StateManagment
 
-- Experience with SQL Database 
+• Experience with MS SQl Server
   
 • Revise, update, refactor and debug code, legacy code.
   
