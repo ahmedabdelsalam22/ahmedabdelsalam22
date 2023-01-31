@@ -1,8 +1,5 @@
 ![٢٠٢٢١٢٠٨_١٣٢٧١٧_mfnr](https://user-images.githubusercontent.com/75587814/215821800-8339b1f0-35a7-4bca-b8cf-0d02fb2c1c44.jpg)
 
-[![committers.top badge](https://user-badge.committers.top/egypt/USERNAME.svg)](https://user-badge.committers.top/egypt/USERNAME)
-
-[![committers.top badge](https://org-badge.committers.top/egypt/ORGNAME.svg)](https://org-badge.committers.top/egypt/ORGNAME)
 
 
 
