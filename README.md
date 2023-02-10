@@ -6,7 +6,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Abd Elsalam</h1>
 <h3 align="center">A Passionate (mobile | asp.net) developer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedabdelsalam22&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedabdelsalam22" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedabdelsalam22" alt="ahmedabdelsalam22" /></a> </p>
 
