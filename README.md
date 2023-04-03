@@ -33,8 +33,5 @@
 </div>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedabdelsalam22&show_icons=true&locale=en&layout=compact" alt="ahmedabdelsalam22" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedabdelsalam22&show_icons=true&locale=en" alt="ahmedabdelsalam22" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedabdelsalam22&" alt="ahmedabdelsalam22" /></p>
