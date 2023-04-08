@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ahmed Abd Elsalam</h1>
-<h3 align="center">A Passionate Mobile/backend developer</h3>
+<h3 align="center">A Passionate Mobile&backend developer</h3>
 
 
 
