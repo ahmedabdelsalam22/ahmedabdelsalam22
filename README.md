@@ -6,7 +6,7 @@
 <h2 align="center">A Passionate Mobile&backend developer</h2>
 
 <h3>
-As a skilled professional in the tech industry, I possess expertise in a range of programming languages and frameworks, including Flutter, Dart, C#,HTML5, CSS3, JavaScript, Bootstrap, and more. With a solid foundation in software engineering, I have honed my skills in building responsive web applications and mobile apps using the latest technologies.
+As a skilled professional in the tech industry, I possess expertise in a range of programming languages and frameworks, including Flutter, Dart, C#,HTML5, CSS3, JavaScript, Bootstrap. With a solid foundation in software engineering, I have honed my skills in building responsive web applications and mobile apps using the latest technologies.
 
 In particular, I am proficient in building applications with the Flutter framework and Dart programming language. I have also gained experience in developing web applications with ASP.NET Core MVC, Identity, Entity Framework, and building APIs with ASP.NET Web API. Additionally, I have experience with SQL Server, APIs, and integrating payment gateways with Stripe.
 
