@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ahmed Abd Elsalam</h1>
-<h2 align="center">A Passionate Mobile&backend developer</h2>
+<h2 align="center">A Passionate Backend/Mobile developer</h2>
 
 <h3>
 As a skilled professional in the tech industry, I possess expertise in a range of programming languages and frameworks, including Flutter, Dart, C#,HTML5, CSS3, JavaScript, Bootstrap. With a solid foundation in software engineering, I have honed my skills in building responsive web applications and mobile apps using the latest technologies.
