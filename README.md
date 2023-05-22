@@ -1,8 +1,4 @@
 
-[![committers.top badge](https://user-badge.committers.top/egypt_public/USERNAME.svg)](https://user-badge.committers.top/egypt_public/ahmedabdelsalam22)
-
-
-
 <h1 align="center">Hi 👋, I'm Ahmed Abd Elsalam</h1>
 <h2 align="center">A Passionate Backend/Mobile developer</h2>
 
