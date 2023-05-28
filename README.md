@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Abd Elsalam</h1>
 <h2 align="center">A Passionate Backend/Mobile developer</h2>
 
-<h1>Most Active GitHub Ussers InEgypt</h1>
 
 [![committers.top badge](https://user-badge.committers.top/egypt_public/ahmedabdelsalam22.svg)](https://user-badge.committers.top/egypt_public/ahmedabdelsalam22)
 
