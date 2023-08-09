@@ -10,8 +10,7 @@
 </h2>
 
 <a href="https://www.youtube.com/@ahmedabdelsalam1143" target="_blank">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedabdelsalam22&" 
-alt="Youtube" width="240" height="180" border="10" /></a>
+@ahmedabdelsalam1143</a>
 
 <h3>
 As a skilled professional in the tech industry, I possess expertise in a range of programming languages and frameworks, including Flutter, Dart, C#,HTML5, CSS3, JavaScript, Bootstrap. With a solid foundation in software engineering, I have honed my skills in building responsive web applications and mobile apps using the latest technologies.
