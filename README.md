@@ -5,6 +5,13 @@
 
 [![committers.top badge](https://user-badge.committers.top/egypt_public/ahmedabdelsalam22.svg)](https://user-badge.committers.top/egypt_public/ahmedabdelsalam22)
 
+<h2>
+  My Youtube Channel
+</h2>
+
+<a href="https://www.youtube.com/@ahmedabdelsalam1143" target="_blank">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedabdelsalam22&" 
+alt="Youtube" width="240" height="180" border="10" /></a>
 
 <h3>
 As a skilled professional in the tech industry, I possess expertise in a range of programming languages and frameworks, including Flutter, Dart, C#,HTML5, CSS3, JavaScript, Bootstrap. With a solid foundation in software engineering, I have honed my skills in building responsive web applications and mobile apps using the latest technologies.
@@ -45,4 +52,3 @@ Overall, my broad range of skills and experience in programming, software engine
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedabdelsalam22&" alt="ahmedabdelsalam22" /></p>
