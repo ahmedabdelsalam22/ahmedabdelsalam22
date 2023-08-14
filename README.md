@@ -16,7 +16,8 @@
 [![committers.top badge](https://user-badge.committers.top/egypt_public/ahmedabdelsalam22.svg)](https://user-badge.committers.top/egypt_public/ahmedabdelsalam22)
 
 <h2>
-  My Youtube Channel
+  My Youtube Channel : -
+ My YouTube channel focused on learning Flutter development is a valuable resource for those interested in Flutter, a popular framework for building cross-platform mobile applications. 
 </h2>
 
 <a href="https://www.youtube.com/@ahmedabdelsalam1143" target="_blank">
