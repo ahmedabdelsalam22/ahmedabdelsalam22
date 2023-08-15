@@ -18,13 +18,11 @@
 
 
 <h3>
-As a skilled professional in the tech industry, I possess expertise in a range of programming languages and frameworks, including Flutter, Dart, C#,HTML5, CSS3, JavaScript, Bootstrap. With a solid foundation in software engineering, I have honed my skills in building responsive web applications and mobile apps using the latest technologies.
-
-In particular, I am proficient in building applications with the Flutter framework and Dart programming language. I have also gained experience in developing web applications with ASP.NET Core MVC, Identity, Entity Framework, and building APIs with ASP.NET Web API. Additionally, I have experience with SQL Server, APIs, and integrating payment gateways with Stripe.
-
-I have extensive experience with Firebase Auth and Firestore, enabling me to build secure and reliable applications. My knowledge in developing APIs with ASP.NET Web API and securing them with JSON Web Tokens (JWT) has also proven to be valuable.
-
-Overall, my broad range of skills and experience in programming, software engineering, and web development make me a valuable asset to any project or team.
+ As a Junior .NET Core Engineer, my objective is to utilize my technical skills and passion for software development to 
+contribute to the success of an innovative organization. I aim to gain valuable hands-on experience in designing and 
+implementing .NET Core applications while continuously expanding my knowledge in the field. With a strong 
+foundation in .NET Core and a determination to learn and grow, I am dedicated to delivering high-quality code and
+collaborating effectively with team members to exceed project goals
 </h3>
 
 
