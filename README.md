@@ -7,7 +7,7 @@
   
  *  I've Third place in contributions (#3)
    
- *  I've Fourth place in commits (#4)
+ *  I've Fourth place in commits (#3)
 
    -- source :- <a href="https://committers.top/egypt" target="_blank">
 @GitHub Ranking in egypt</a>
