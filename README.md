@@ -3,13 +3,8 @@
 <h2 align="center">A Passionate Backend Engineer</h2>
 
 <h2>
-  The Most active GitHub users in Egypt 2023 :-
-  
- *  I've Third place in contributions (#3)
-   
- *  I've Third place in commits (#3)
-
-   -- source :- <a href="https://committers.top/egypt" target="_blank">
+  Most active GitHub users in Egypt 2023 :-
+   <a href="https://committers.top/egypt" target="_blank">
 @GitHub Ranking in egypt</a>
 </h2>
 
