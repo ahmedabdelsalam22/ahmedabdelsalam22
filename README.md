@@ -2,11 +2,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Abd Elsalam</h1>
 <h2 align="center">A Passionate .Net Core Developer</h2>
 
-<h2>
-  Most active GitHub users in Egypt 2023 :-
-   <a href="https://committers.top/egypt" target="_blank">
-@GitHub Ranking in egypt</a>
-</h2>
 
 [![committers.top badge](https://user-badge.committers.top/egypt_public/ahmedabdelsalam22.svg)](https://user-badge.committers.top/egypt_public/ahmedabdelsalam22)
 
