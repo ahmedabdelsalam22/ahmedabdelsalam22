@@ -8,7 +8,7 @@
 
 
 <h3>
- As a Junior .NET Core Engineer, my objective is to utilize my technical skills and passion for software development to 
+ As a Junior .NET Developer, my objective is to utilize my technical skills and passion for software development to 
 contribute to the success of an innovative organization. I aim to gain valuable hands-on experience in designing and 
 implementing .NET Core applications while continuously expanding my knowledge in the field. With a strong 
 foundation in .NET Core and a determination to learn and grow, I am dedicated to delivering high-quality code and
