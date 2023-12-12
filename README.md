@@ -8,11 +8,7 @@
 
 
 <h3>
- As .NET Developer, my objective is to utilize my technical skills and passion for software development to 
-contribute to the success of an innovative organization. I aim to gain valuable hands-on experience in designing and 
-implementing .NET Core applications while continuously expanding my knowledge in the field. With a strong 
-foundation in .NET Core and a determination to learn and grow, I am dedicated to delivering high-quality code and
-collaborating effectively with team members to exceed project goals
+ a skilled .NET developer with a year of freelancing experience in the dynamic realm of e-commerce projects. My journey in the software development landscape has equipped me with a solid foundation in ASP.NET Core, Entity Framework, SQL Server, and front-end technologies like HTML, CSS, and JavaScript. My passion for innovation and eagerness to explore cutting-edge solutions drive my commitment to staying at the forefront of technology.
 </h3>
 
 
