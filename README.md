@@ -8,7 +8,7 @@
 
 
 <h3>
- a skilled .NET developer with a year of freelancing experience in the dynamic realm of e-commerce projects. My journey in the software development landscape has equipped me with a solid foundation in ASP.NET Core, Entity Framework, SQL Server, and front-end technologies like HTML, CSS, and JavaScript. My passion for innovation and eagerness to explore cutting-edge solutions drive my commitment to staying at the forefront of technology.
+Experienced .NET Developer with (1-2) years of proven expertise in C#,OOP, ASP.NET, and SQL Server, Microservices. Passionate about delivering high-quality, scalable solutions that meet business objectives. Seeking opportunities to contribute my skills and collaborate with innovative teams in the dynamic field of software development
 </h3>
 
 
