@@ -5,7 +5,6 @@
 
 [![committers.top badge](https://user-badge.committers.top/egypt_public/ahmedabdelsalam22.svg)](https://user-badge.committers.top/egypt_public/ahmedabdelsalam22)
 
-<div class="badge-base LI-profile-badge" data-locale="ar_AE" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="ahmed-abd-elsalam-8a84461b5" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://eg.linkedin.com/in/ahmed-abd-elsalam-8a84461b5?trk=profile-badge">Ahmed Abd Elsalam</a></div>
               
 
 <h3>
