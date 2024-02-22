@@ -8,7 +8,7 @@
               
 
 <h3>
-Experienced .NET Developer with (1-2) years of proven expertise in C#,OOP, ASP.NET, and SQL Server, Microservices. Passionate about delivering high-quality, scalable solutions that meet business objectives. Seeking opportunities to contribute my skills and collaborate with innovative teams in the dynamic field of software development
+Experienced .NET Developer with 2 years of proven expertise in C#,OOP, ASP.NET, and SQL Server, Microservices. Passionate about delivering high-quality, scalable solutions that meet business objectives. Seeking opportunities to contribute my skills and collaborate with innovative teams in the dynamic field of software development
 </h3>
 
 
